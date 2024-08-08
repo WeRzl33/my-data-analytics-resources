@@ -1,6 +1,9 @@
 # My Data Analytics Resources
 My list of resources for continuous learning and career development in the data field.
 
+## In Person Classes
+[Tech Moms 2.0 - Data Analytics](https://www.notion.so/werz/Tech-Mom-2-0-Data-Analytics-75af5db855354785ba6e55cfab501877) - My own Notion Page
+
 ## Videos
 [Using ChatGPT-4o for Data Analysis](https://www.youtube.com/watch?v=U3UhtGYmfBw)
 
