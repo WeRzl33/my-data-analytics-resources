@@ -1,12 +1,10 @@
-# Data Analytics Resources
-A resource center for articles, books, videos, and tools to support continuous learning and career development in the data field.
+# My Data Analytics Resources
+My list of resources for continuous learning and career development in the data field.
 
 ## Videos
 [Using ChatGPT-4o for Data Analysis](https://www.youtube.com/watch?v=U3UhtGYmfBw)
 
 [Freecodecamp Data Analyst Bootcamp](https://www.youtube.com/watch?v=PSNXoAs2FtQ)
-
-[How to Make Learning as Addictive as Social Media - TED talk](https://www.youtube.com/watch?v=P6FORpg0KVo&t=2s)
 
 [Git and GitHub Tutorial for Beginners](https://www.youtube.com/watch?v=tRZGeaHPoaw&t=634s) - Git (Start at 0:43), GitHub (Start at 32:38)
 
@@ -46,20 +44,18 @@ A resource center for articles, books, videos, and tools to support continuous l
 [State of Utah Open Data Catalog](https://opendata.utah.gov/)
 
 ## Articles
-[Barbie and Oppenheimer](https://celestemdavis.substack.com/p/barbie-and-oppenheimer-which-is-the?utm_source=substack&publication_id=860502&post_id=146797540&utm_medium=email&utm_content=share&utm_campaign=email-share&triggerShare=true&isFreemail=false&r=720ty&triedRedirect=true)
+[Quickstart for Writing in Markdown on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
+
+[Markup: Basic Writing and Formatting Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 [5 GitHub Tips for New Coders](https://medium.com/free-code-camp/5-github-tips-for-new-coders-2f312689ffd5)
-
-[How to Measure Cohort Retention](https://open.substack.com/pub/lenny/p/measuring-cohort-retention?r=720ty&utm_campaign=post&utm_medium=email)
-
-[Quickstart for Writing in Markdown on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
 
 [Data Analyst vs Data Scientist](https://www.freecodecamp.org/news/data-analyst-vs-data-scientist-whats-the-difference/)
 
 ## Continuing Education
 [Weber State Data Analytics Certificate](https://www.weber.edu/goddard/DataAnalyticsCertificate.html)
 
-Annual Report Examples
+## Annual Report Examples
 [MIT Solve Annual Report](https://info.solve.mit.edu/hubfs/MIT%20Solve%20-%20Annual%20Report%202024.pdf?utm_campaign=Annual%20Fund%20Appeal&utm_medium=email&_hsenc=p2ANqtz-8tQgWqIsmwpsXAHAXLkUeRRXmhIHfp3aSF9DY37QgWtC_r_v5oQiLphpuQtH3dvjHi5l8FBvc1cXDf8QxwYQt2jWHYAg&_hsmi=317147358&utm_content=317147356&utm_source=hs_email)
 
 ## Websites
@@ -69,23 +65,23 @@ Annual Report Examples
 
 [Command Line Cheat Sheet](https://www.git-tower.com/blog/command-line-cheat-sheet/)
 
-DataLemer - SQL interview practice questions
+[DataLemer](https://datalemur.com/) - SQL interview practice questions
 
-Code Wars - SQL Practice questions (and Competition if you like)
+[Code Wars](https://www.codewars.com/kata/search/my-languages?q=&tags=SQL&beta=false&order_by=sort_date%20desc) - SQL Practice questions (and Competition if you like)
 
-Courses
-Intro to Git and GitHub - Treehouse
+## Courses
+[Intro to Git and GitHub](https://teamtreehouse.com/library/github-basics) - Treehouse
 
-Intro to Google Sheets - Pluralsight
+[Intro to Google Sheets](https://app.pluralsight.com/library/courses/google-sheets-2/table-of-contents) - Pluralsight
 
-BI Tooling
-Tableau
+## BI Tooling
+[Tableau](https://www.tableau.com/learn)
 
-Looker Data Studio
+[Looker Data Studio](https://lookerstudio.google.com/)
 
-Hex
+[Hex](https://hex.tech/)
 
-Power BI
+[Power BI](https://learn.microsoft.com/en-us/training/powerplatform/power-bi)
 
-Analysis
-Data Analysis of Licensed Drivers in the USA - using Deepnote / Python / SQL
+## Analysis
+[Data Analysis of Licensed Drivers in the USA](https://deepnote.com/app/data-analytics-playroom-daj/Analysis-3354e600-3cd3-4c06-866f-97f3eb21a5df?utm_source=substack&utm_medium=email) - using Deepnote / Python / SQL
