@@ -55,6 +55,8 @@ My list of resources for continuous learning and career development in the data 
 
 [Data Analyst vs Data Scientist](https://www.freecodecamp.org/news/data-analyst-vs-data-scientist-whats-the-difference/)
 
+[10 Statistics Questions to Ace Your Data Science Interview](https://www.kdnuggets.com/10-statistics-questions-to-ace-your-data-science-interview)
+
 ## Continuing Education
 [Weber State Data Analytics Certificate](https://www.weber.edu/goddard/DataAnalyticsCertificate.html)
 
