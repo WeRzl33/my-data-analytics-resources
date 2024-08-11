@@ -58,6 +58,8 @@ My list of resources for continuous learning and career development in the data 
 [10 Statistics Questions to Ace Your Data Science Interview](https://www.kdnuggets.com/10-statistics-questions-to-ace-your-data-science-interview)
 
 ## Continuing Education
+[Khan Academy - Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)
+
 [Weber State Data Analytics Certificate](https://www.weber.edu/goddard/DataAnalyticsCertificate.html)
 
 ## Annual Report Examples
