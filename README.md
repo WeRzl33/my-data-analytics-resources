@@ -72,6 +72,8 @@ My list of resources for continuous learning and career development in the data 
 
 [Command Line Cheat Sheet](https://www.git-tower.com/blog/command-line-cheat-sheet/)
 
+[Data Camp](https://www.datacamp.com/) - Unlock the power of data and AI by learning Python, ChatGPT, SQL, Power BI, and earn industry-leading Certifications.
+
 [DataLemer](https://datalemur.com/) - SQL interview practice questions
 
 [Code Wars](https://www.codewars.com/kata/search/my-languages?q=&tags=SQL&beta=false&order_by=sort_date%20desc) - SQL Practice questions (and Competition if you like)
