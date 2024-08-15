@@ -29,7 +29,7 @@ My list of resources for continuous learning and career development in the data 
 [Datalyser](https://www.youtube.com/@danalyser)
 
 ## Books
-[Data Science for Business] - by Foster Provost and Tom Fawcett - Explains data science concepts in a business context.(https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking/dp/B08VL5K5ZX)
+[Data Science for Business](https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking/dp/B08VL5K5ZX) - by Foster Provost and Tom Fawcett - Explains data science concepts in a business context.
 
 [Storytelling With Data](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257) - by Cole Nussbaumer Knaflic
 
