@@ -70,6 +70,8 @@ My list of resources for continuous learning and career development in the data 
 ## Websites
 [Kaggle](https://www.kaggle.com/datasets) - Provides datasets, competitions, and educational resources for hands-on learning.
 
+[W3Schools SQL Tutorials](https://www.w3schools.com/sql/)
+
 [SQL Practice](https://www.sql-practice.com/)
 
 [SQL Bolt](https://sqlbolt.com/)
