@@ -103,3 +103,6 @@ My list of resources for continuous learning and career development in the data 
 
 ## Analysis
 [Data Analysis of Licensed Drivers in the USA](https://deepnote.com/app/data-analytics-playroom-daj/Analysis-3354e600-3cd3-4c06-866f-97f3eb21a5df?utm_source=substack&utm_medium=email) - using Deepnote / Python / SQL
+
+## Events
+[ACS on the Road - Kem C. Gardner Policy Institute](https://gardner.utah.edu/event/acs-on-the-road/)
