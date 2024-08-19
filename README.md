@@ -89,6 +89,8 @@ My list of resources for continuous learning and career development in the data 
 
 [Intro to Google Sheets](https://app.pluralsight.com/library/courses/google-sheets-2/table-of-contents) - Pluralsight
 
+[Intro to SQL](https://app.pluralsight.com/paths/skill/introduction-to-sql) - Pluralsight
+
 ## BI Tooling
 [Tableau](https://www.tableau.com/learn)
 
