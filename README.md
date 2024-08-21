@@ -59,6 +59,8 @@ My list of resources for continuous learning and career development in the data 
 
 [10 Statistics Questions to Ace Your Data Science Interview](https://www.kdnuggets.com/10-statistics-questions-to-ace-your-data-science-interview)
 
+[How I Transition into Data Analytics (Self-Study Route)](https://github.com/katiehuangx/Transition-into-Data-Analytics)
+
 ## Continuing Education
 [Khan Academy - Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)
 
