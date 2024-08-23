@@ -110,3 +110,6 @@ My list of resources for continuous learning and career development in the data 
 
 ## Events
 [ACS on the Road - Kem C. Gardner Policy Institute](https://gardner.utah.edu/event/acs-on-the-road/)
+
+## Downloadable Tools
+[SQLite](https://www.sqlite.org/index.html)
