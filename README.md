@@ -113,3 +113,5 @@ My list of resources for continuous learning and career development in the data 
 
 ## Downloadable Tools
 [SQLite](https://www.sqlite.org/index.html)
+
+[SQL Server Developer or Express Edition](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
