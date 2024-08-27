@@ -119,3 +119,6 @@ My list of resources for continuous learning and career development in the data 
 [My SQL Community Edition](https://www.mysql.com/products/community/)
 
 [PostgreSQL: The World's Most Advanced Open Source Relational Database](https://www.postgresql.org/)
+
+## Scholarships
+[Top Govenment Scholarships for Data Science Students](https://www.analyticsinsight.net/data-science/top-government-scholarships-for-data-science-students)
