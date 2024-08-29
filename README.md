@@ -74,6 +74,8 @@ My list of resources for continuous learning and career development in the data 
 
 [W3Schools SQL Tutorials](https://www.w3schools.com/sql/)
 
+[Data Lemur Tutorials - Learn enough SQL to ace FAANG SQL interviews](https://datalemur.com/sql-tutorial)
+
 [SQL Practice](https://www.sql-practice.com/)
 
 [SQL Bolt](https://sqlbolt.com/)
