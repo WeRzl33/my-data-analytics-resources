@@ -72,6 +72,8 @@ My list of resources for continuous learning and career development in the data 
 ## Websites
 [Kaggle](https://www.kaggle.com/datasets) - Provides datasets, competitions, and educational resources for hands-on learning.
 
+[Storytelling with Data](https://www.storytellingwithdata.com/)
+
 [W3Schools SQL Tutorials](https://www.w3schools.com/sql/)
 
 [Data Lemur Tutorials - Learn enough SQL to ace FAANG SQL interviews](https://datalemur.com/sql-tutorial)
