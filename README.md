@@ -7,6 +7,8 @@ My list of resources for continuous learning and career development in the data 
 ## Videos
 [Using ChatGPT-4o for Data Analysis](https://www.youtube.com/watch?v=U3UhtGYmfBw)
 
+[BBC 4's The Joy of Stats](https://www.youtube.com/playlist?list=PLBE30C2B39FE4BD1C)
+
 [Freecodecamp Data Analyst Bootcamp for Beginners (SQL, Tableau, Power BI, Python, Excel, Pandas, Projects, more)](https://www.youtube.com/watch?v=PSNXoAs2FtQ)
 
 [Git and GitHub Tutorial for Beginners](https://www.youtube.com/watch?v=tRZGeaHPoaw&t=634s) - Git (Start at 0:43), GitHub (Start at 32:38)
