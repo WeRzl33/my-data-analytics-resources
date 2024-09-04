@@ -92,6 +92,8 @@ My list of resources for continuous learning and career development in the data 
 
 [Code Wars](https://www.codewars.com/kata/search/my-languages?q=&tags=SQL&beta=false&order_by=sort_date%20desc) - SQL Practice questions (and Competition if you like)
 
+[Datawrapper](https://academy.datawrapper.de/) - learn to build aesthetically pleasing charts, tables, maps
+
 ## Courses
 [Intro to Git and GitHub](https://teamtreehouse.com/library/github-basics) - Treehouse
 
