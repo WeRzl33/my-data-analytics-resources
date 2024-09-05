@@ -108,6 +108,8 @@ My list of resources for continuous learning and career development in the data 
 
 [Hex](https://hex.tech/)
 
+[Flourish](https://flourish.studio/visualisations/bar-charts/) - make interactive bar charts without coding
+
 ## Forums
 [Data Science Reddit](https://www.reddit.com/r/datascience/) - A space for data science professionals to engage in discussions and debates on the subject of data science.
 
