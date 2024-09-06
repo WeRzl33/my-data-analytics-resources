@@ -94,6 +94,8 @@ My list of resources for continuous learning and career development in the data 
 
 [Datawrapper](https://academy.datawrapper.de/) - learn to build aesthetically pleasing charts, tables, maps
 
+[Tableau Desktop & Web Authoring Help](https://help.tableau.com/current/pro/desktop/en-us/gettingstarted_overview.htm) - Getting started with Tableau Desktop
+
 ## Courses
 [Intro to Git and GitHub](https://teamtreehouse.com/library/github-basics) - Treehouse
 
