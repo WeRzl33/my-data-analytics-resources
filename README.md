@@ -98,6 +98,8 @@ My list of resources for continuous learning and career development in the data 
 
 [Add visuals to a Power BI report](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-report-add-visualizations-i?tabs=powerbi-desktop) - Part 1
 
+[Microsoft Excel Training](https://support.microsoft.com/en-us/office/excel-video-training-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
+
 ## Courses
 [Intro to Git and GitHub](https://teamtreehouse.com/library/github-basics) - Treehouse
 
