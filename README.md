@@ -100,6 +100,8 @@ My list of resources for continuous learning and career development in the data 
 
 [Microsoft Excel Training](https://support.microsoft.com/en-us/office/excel-video-training-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
 
+[Google Support](https://support.google.com/looker-studio/answer/6293184?hl=en)
+
 ## Courses
 [Intro to Git and GitHub](https://teamtreehouse.com/library/github-basics) - Treehouse
 
