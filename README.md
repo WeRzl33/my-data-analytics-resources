@@ -102,6 +102,8 @@ My list of resources for continuous learning and career development in the data 
 
 [Google Support](https://support.google.com/looker-studio/answer/6293184?hl=en)
 
+[Unlocked with Z](https://www.hp.com/us-en/workstations/industries/data-science/unlocked-with-z.html) - Data Science Challenge from HP
+
 ## Courses
 [Intro to Git and GitHub](https://teamtreehouse.com/library/github-basics) - Treehouse
 
