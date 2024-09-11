@@ -47,6 +47,8 @@ My list of resources for continuous learning and career development in the data 
 
 [Becoming a Data Head](https://www.amazon.com/Becoming-Data-Head-Understand-Statistics/dp/1119741742) - by Alex J. Gutman, Jordan Goldmeier
 
+[Visual Introduction to SQL](https://www.amazon.com/Visual-Introduction-SQL-David-Chappell/dp/0471412767/)
+
 ## Open Data Sets
 [State of Utah Open Data Catalog](https://opendata.utah.gov/)
 
