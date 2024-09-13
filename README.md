@@ -108,6 +108,8 @@ My list of resources for continuous learning and career development in the data 
 
 [Infogram](https://infogram.com) - Create interactive Data Visualizations with AI
 
+[Simon Sez It](https://www.simonsezit.com/) - Unlock Your Potential with Software Mastery
+
 ## Courses
 [Intro to Git and GitHub](https://teamtreehouse.com/library/github-basics) - Treehouse
 
