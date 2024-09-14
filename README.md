@@ -110,6 +110,8 @@ My list of resources for continuous learning and career development in the data 
 
 [Simon Sez It](https://www.simonsezit.com/) - Unlock Your Potential with Software Mastery
 
+[Learn It](https://www.learnit.com/)
+
 ## Courses
 [Intro to Git and GitHub](https://teamtreehouse.com/library/github-basics) - Treehouse
 
