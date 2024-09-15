@@ -112,6 +112,8 @@ My list of resources for continuous learning and career development in the data 
 
 [Learn It](https://www.learnit.com/)
 
+[Strata Scratch](https://www.stratascratch.com/) - Master coding for data science
+
 ## Courses
 [Intro to Git and GitHub](https://teamtreehouse.com/library/github-basics) - Treehouse
 
