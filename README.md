@@ -125,6 +125,9 @@ My list of resources for continuous learning and career development in the data 
 
 [Intro to SQL](https://app.pluralsight.com/paths/skill/introduction-to-sql) - Pluralsight
 
+[Udemy: Microsoft Excel: Data Analysis with Excel Pivot Tables](https://www.udemy.com/course/data-analysis-with-excel-pivot-tables/?couponCode=ST11MT91624B) - Master Excel Pivot Tables for data analysis, EDA &amp; business intelligence. Learn from a top MS Excel instructor!
+Recommended by Alex the Analyst
+
 ## BI Tooling
 [Tableau](https://www.tableau.com/learn)
 
