@@ -128,6 +128,9 @@ My list of resources for continuous learning and career development in the data 
 [Udemy: Microsoft Excel: Data Analysis with Excel Pivot Tables](https://www.udemy.com/course/data-analysis-with-excel-pivot-tables/?couponCode=ST11MT91624B) - Master Excel Pivot Tables for data analysis, EDA &amp; business intelligence. Learn from a top MS Excel instructor!
 Recommended by Alex the Analyst
 
+[Udemy: Microsoft Excel: Data Visualization w/ Excel Charts & Graphs](https://www.udemy.com/course/advanced-excel-charts-graphs/?ranMID=39197&ranEAID=E7g%2FxDr%2FWGM&ranSiteID=E7g_xDr_WGM-etBIo.2l8BiDYrZzc4CG5w&LSNPUBID=E7g%2FxDr%2FWGM&couponCode=ST11MT91624B) - Master 20+ Excel charts &amp; graphs, build custom dashboards, and create advanced spreadsheet visuals w/ a top instructor!
+Recommended by Alex the Analyst
+
 ## BI Tooling
 [Tableau](https://www.tableau.com/learn)
 
