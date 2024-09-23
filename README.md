@@ -102,7 +102,7 @@ My list of resources for continuous learning and career development in the data 
 
 [Code Wars](https://www.codewars.com/kata/search/my-languages?q=&tags=SQL&beta=false&order_by=sort_date%20desc) - SQL Practice questions (and Competition if you like)
 
-[Datawrapper](https://academy.datawrapper.de/) - learn to build aesthetically pleasing charts, tables, maps
+[Datawrapper](https://academy.datawrapper.de/) - Learn how to build charts, tables, maps with Datawrapper, and aesthetically pleasing way to visualize data
 
 [Tableau Desktop & Web Authoring Help](https://help.tableau.com/current/pro/desktop/en-us/gettingstarted_overview.htm) - Getting started with Tableau Desktop
 
