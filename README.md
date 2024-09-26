@@ -84,6 +84,8 @@ My list of resources for continuous learning and career development in the data 
 
 [Statistics for Data Science and Business Analysis](https://www.udemy.com/course/statistics-for-data-science-and-business-analysis/?ranMID=39197&ranEAID=E7g%2FxDr%2FWGM&ranSiteID=E7g_xDr_WGM-kaO38tqEvmqD4TYikyH.rw&LSNPUBID=E7g%2FxDr%2FWGM&couponCode=ST22MT92324B)
 
+[Querying Microsoft SQL Server with Transact-SQL](https://www.udemy.com/course/70-461-session-2-querying-microsoft-sql-server-2012/?ranMID=39197&ranEAID=E7g%2FxDr%2FWGM&ranSiteID=E7g_xDr_WGM-eN2Ru5KA5q31T9WExgr_3A&LSNPUBID=E7g%2FxDr%2FWGM&couponCode=OF83024C)
+
 ## Annual Report Examples
 [MIT Solve Annual Report](https://info.solve.mit.edu/hubfs/MIT%20Solve%20-%20Annual%20Report%202024.pdf?utm_campaign=Annual%20Fund%20Appeal&utm_medium=email&_hsenc=p2ANqtz-8tQgWqIsmwpsXAHAXLkUeRRXmhIHfp3aSF9DY37QgWtC_r_v5oQiLphpuQtH3dvjHi5l8FBvc1cXDf8QxwYQt2jWHYAg&_hsmi=317147358&utm_content=317147356&utm_source=hs_email)
 
