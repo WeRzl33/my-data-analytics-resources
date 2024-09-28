@@ -134,6 +134,8 @@ My list of resources for continuous learning and career development in the data 
 
 [Open Learn Free Courses](https://www.open.edu/openlearn/about-openlearn/try)
 
+[Excel Cheat Sheet](https://www.datacamp.com/cheat-sheet/getting-started-with-excel-cheat-sheet)
+
 ## Courses
 [Intro to Git and GitHub](https://teamtreehouse.com/library/github-basics) - Treehouse
 
