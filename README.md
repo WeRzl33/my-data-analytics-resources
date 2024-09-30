@@ -65,6 +65,8 @@ My list of resources for continuous learning and career development in the data 
 
 [How I Transition into Data Analytics (Self-Study Route)](https://github.com/katiehuangx/Transition-into-Data-Analytics)
 
+[Data Science vs Data Analytics: Which Should You Choose?](https://www.coursera.org/articles/data-science-vs-data-analytics)
+
 ## Continuing Education
 [Khan Academy - Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)
 
