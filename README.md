@@ -67,6 +67,8 @@ My list of resources for continuous learning and career development in the data 
 
 [Data Science vs Data Analytics: Which Should You Choose?](https://www.coursera.org/articles/data-science-vs-data-analytics)
 
+[Data Analyst vs Business Analyst: What Are The Differences?](https://www.datacamp.com/blog/data-analyst-vs-business-analyst)
+
 ## Continuing Education
 [Khan Academy - Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)
 
