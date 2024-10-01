@@ -140,6 +140,8 @@ My list of resources for continuous learning and career development in the data 
 
 [Excel Cheat Sheet](https://www.datacamp.com/cheat-sheet/getting-started-with-excel-cheat-sheet)
 
+[Mode](https://mode.com/sql-tutorial) - Learn to answer questions with data using SQL. No coding experience necessary.
+
 ## Courses
 [Intro to Git and GitHub](https://teamtreehouse.com/library/github-basics) - Treehouse
 
