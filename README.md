@@ -164,6 +164,8 @@ Recommended by Alex the Analyst
 
 [Flourish](https://flourish.studio/visualisations/bar-charts/) - make interactive bar charts without coding
 
+[Deepnote](https://deepnote.com/) - The AI-powered  data workspace
+
 ## Forums
 [Data Science Reddit](https://www.reddit.com/r/datascience/) - A space for data science professionals to engage in discussions and debates on the subject of data science.
 
