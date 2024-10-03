@@ -142,6 +142,8 @@ My list of resources for continuous learning and career development in the data 
 
 [Mode](https://mode.com/sql-tutorial) - Learn to answer questions with data using SQL. No coding experience necessary.
 
+[SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial)
+
 ## Courses
 [Intro to Git and GitHub](https://teamtreehouse.com/library/github-basics) - Treehouse
 
