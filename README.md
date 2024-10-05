@@ -82,7 +82,7 @@ My list of resources for continuous learning and career development in the data 
 
 [IBM Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst?irclickid=2%3AvU6W3qTxyKR6nVlDyKoWKLUkC1bkzGPzjLSQ0&irgwc=1)
 
-[Data Visualization with Tableau Specialization](https://www.coursera.org/specializations/data-visualization?irclickid=2%3AvU6W3qTxyKR6nVlDyKoWKLUkC1bkz%3APzjLSQ0&irgwc=10
+[Data Visualization with Tableau Specialization](https://www.coursera.org/specializations/data-visualization?irclickid=2%3AvU6W3qTxyKR6nVlDyKoWKLUkC1bkz%3APzjLSQ0&irgwc=10)
 
 [Learning Python for Data Analysis and Visualization Ver 1](https://www.udemy.com/course/learning-python-for-data-analysis-and-visualization/?ranMID=39197&ranEAID=E7g%2FxDr%2FWGM&ranSiteID=E7g_xDr_WGM-cUvfeo.XeV.CDiz4pg17rA&LSNPUBID=E7g%2FxDr%2FWGM&couponCode=OF83024F)
 
