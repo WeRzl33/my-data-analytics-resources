@@ -94,6 +94,8 @@ My list of resources for continuous learning and career development in the data 
 
 [Get started building with Power BI](https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/?WT.mc_id=powerbi_home_inproduct_introcard)
 
+[Tutorial: From Excel workbook to stunning report in Power BI Desktop](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-excel-stunning-report)
+
 ## Annual Report Examples
 [MIT Solve Annual Report](https://info.solve.mit.edu/hubfs/MIT%20Solve%20-%20Annual%20Report%202024.pdf?utm_campaign=Annual%20Fund%20Appeal&utm_medium=email&_hsenc=p2ANqtz-8tQgWqIsmwpsXAHAXLkUeRRXmhIHfp3aSF9DY37QgWtC_r_v5oQiLphpuQtH3dvjHi5l8FBvc1cXDf8QxwYQt2jWHYAg&_hsmi=317147358&utm_content=317147356&utm_source=hs_email)
 
