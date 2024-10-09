@@ -50,7 +50,11 @@ My list of resources for continuous learning and career development in the data 
 [Visual Introduction to SQL](https://www.amazon.com/Visual-Introduction-SQL-David-Chappell/dp/0471412767/)
 
 ## Open Data Sets
+[Kaggle](https://www.kaggle.com/datasets) - Provides datasets, competitions, and educational resources for hands-on learning.
+
 [State of Utah Open Data Catalog](https://opendata.utah.gov/)
+
+[SLC Open Data Catalog](https://opendata.utah.gov/salt-lake-city)
 
 ## Articles
 [Quickstart for Writing in Markdown on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
@@ -102,8 +106,6 @@ My list of resources for continuous learning and career development in the data 
 [MIT Solve Annual Report](https://info.solve.mit.edu/hubfs/MIT%20Solve%20-%20Annual%20Report%202024.pdf?utm_campaign=Annual%20Fund%20Appeal&utm_medium=email&_hsenc=p2ANqtz-8tQgWqIsmwpsXAHAXLkUeRRXmhIHfp3aSF9DY37QgWtC_r_v5oQiLphpuQtH3dvjHi5l8FBvc1cXDf8QxwYQt2jWHYAg&_hsmi=317147358&utm_content=317147356&utm_source=hs_email)
 
 ## Websites
-[Kaggle](https://www.kaggle.com/datasets) - Provides datasets, competitions, and educational resources for hands-on learning.
-
 [Storytelling with Data](https://www.storytellingwithdata.com/)
 
 [W3Schools SQL Tutorials](https://www.w3schools.com/sql/)
