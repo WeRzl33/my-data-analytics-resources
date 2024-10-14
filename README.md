@@ -77,6 +77,8 @@ My list of resources for continuous learning and career development in the data 
 
 [Data Analyst vs Business Analyst: What Are The Differences?](https://www.datacamp.com/blog/data-analyst-vs-business-analyst)
 
+[How I Got 3 Data Science Job Offers in One Month](https://www.kdnuggets.com/how-i-got-3-data-science-job-offers-in-one-month)
+
 ## Continuing Education
 [Khan Academy - Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)
 
