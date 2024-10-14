@@ -79,6 +79,8 @@ My list of resources for continuous learning and career development in the data 
 
 [How I Got 3 Data Science Job Offers in One Month](https://www.kdnuggets.com/how-i-got-3-data-science-job-offers-in-one-month)
 
+[7 Data Engineering Tools for Beginners] (https://www.kdnuggets.com/7-data-engineering-tools-for-beginners)
+
 ## Continuing Education
 [Khan Academy - Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)
 
