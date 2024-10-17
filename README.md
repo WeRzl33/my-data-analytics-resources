@@ -81,6 +81,8 @@ My list of resources for continuous learning and career development in the data 
 
 [7 Data Engineering Tools for Beginners] (https://www.kdnuggets.com/7-data-engineering-tools-for-beginners)
 
+[What Does a Data Engineer Do?](What Does A Data Engineer Do? https://www.forbes.com/sites/adrianbridgwater/2024/09/20/what-does-a-data-engineer-do/)
+
 ## Continuing Education
 [Khan Academy - Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)
 
