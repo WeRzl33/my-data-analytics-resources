@@ -83,6 +83,8 @@ My list of resources for continuous learning and career development in the data 
 
 [What Does a Data Engineer Do?](What Does A Data Engineer Do? https://www.forbes.com/sites/adrianbridgwater/2024/09/20/what-does-a-data-engineer-do/)
 
+[How I Would Learn Data Science in 2024](https://www.kdnuggets.com/how-i-would-learn-data-science-in-2024)
+
 ## Continuing Education
 [Khan Academy - Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)
 
