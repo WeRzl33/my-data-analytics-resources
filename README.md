@@ -85,6 +85,8 @@ My list of resources for continuous learning and career development in the data 
 
 [How I Would Learn Data Science in 2024](https://www.kdnuggets.com/how-i-would-learn-data-science-in-2024)
 
+[Notion Templates every data scientist should have in 2024](https://www.kdnuggets.com/notion-templates-every-data-scientist-should-have-in-2024)
+
 ## Continuing Education
 [Khan Academy - Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)
 
