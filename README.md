@@ -60,6 +60,8 @@ My list of resources for continuous learning and career development in the data 
 
 [Tableau Sample Data](https://public.tableau.com/app/learn/sample-data)
 
+[Businesses in SF](https://data.sfgov.org/Economy-and-Community/Map-of-Registered-Businesses-San-Francisco/9tqe-vdng)
+
 ## Articles
 [Quickstart for Writing in Markdown on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
 
