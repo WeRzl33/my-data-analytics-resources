@@ -172,7 +172,9 @@ My list of resources for continuous learning and career development in the data 
 
 [State of Utah Open Data Catalog](https://opendata.utah.gov/)
 
-(Tableau User Groups)[https://usergroups.tableau.com/?domain=duck.com&eid=CTBLS000052988188&d=7013y000000vYh9]
+[Tableau User Groups](https://usergroups.tableau.com/?domain=duck.com&eid=CTBLS000052988188&d=7013y000000vYh9)
+
+[Technically](https://read.technically.dev/)
 
 ## Courses
 [Intro to Git and GitHub](https://teamtreehouse.com/library/github-basics) - Treehouse
