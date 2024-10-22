@@ -176,6 +176,8 @@ My list of resources for continuous learning and career development in the data 
 
 [Technically](https://read.technically.dev/)
 
+[Learn Analytics Engineering](https://learnanalyticsengineering.substack.com/)
+
 ## Courses
 [Intro to Git and GitHub](https://teamtreehouse.com/library/github-basics) - Treehouse
 
