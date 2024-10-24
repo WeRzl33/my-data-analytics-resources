@@ -81,9 +81,9 @@ My list of resources for continuous learning and career development in the data 
 
 [How I Got 3 Data Science Job Offers in One Month](https://www.kdnuggets.com/how-i-got-3-data-science-job-offers-in-one-month)
 
-[7 Data Engineering Tools for Beginners] (https://www.kdnuggets.com/7-data-engineering-tools-for-beginners)
+[7 Data Engineering Tools for Beginners](https://www.kdnuggets.com/7-data-engineering-tools-for-beginners)
 
-[What Does a Data Engineer Do?](What Does A Data Engineer Do? https://www.forbes.com/sites/adrianbridgwater/2024/09/20/what-does-a-data-engineer-do/)
+[What Does a Data Engineer Do?](https://www.forbes.com/sites/adrianbridgwater/2024/09/20/what-does-a-data-engineer-do/)
 
 [How I Would Learn Data Science in 2024](https://www.kdnuggets.com/how-i-would-learn-data-science-in-2024)
 
