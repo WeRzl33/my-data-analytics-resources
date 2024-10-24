@@ -116,7 +116,7 @@ My list of resources for continuous learning and career development in the data 
 
 [Tutorial: From Excel workbook to stunning report in Power BI Desktop](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-excel-stunning-report)
 
-[Miss Excel]([https://links.miss-excel.com/exclusive?ref=lauren17](https://www.miss-excel.com/)
+[Miss Excel](https://www.miss-excel.com/)
 
 [Python for Beginners from Alex the Analyst](https://www.analystbuilder.com/courses/python-programming-for-beginners)
 
