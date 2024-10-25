@@ -182,6 +182,8 @@ My list of resources for continuous learning and career development in the data 
 
 [Seattle Data Guy](https://seattledataguy.substack.com/)
 
+[Locally Optimistic](https://locallyoptimistic.com/)
+
 ## Courses
 [Intro to Git and GitHub](https://teamtreehouse.com/library/github-basics) - Treehouse
 
