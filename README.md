@@ -186,6 +186,8 @@ My list of resources for continuous learning and career development in the data 
 
 [Towards Data Science](https://towardsdatascience.com/)
 
+[What is Analytics Engineering](https://www.getdbt.com/what-is-analytics-engineering)
+
 ## Courses
 [Intro to Git and GitHub](https://teamtreehouse.com/library/github-basics) - Treehouse
 
