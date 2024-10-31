@@ -1,4 +1,4 @@
-# My Data Analytics Resources
+# My Data Related Resources
 My list of resources for continuous learning and career development in the data field.
 
 ## In Person Classes
