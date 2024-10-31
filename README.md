@@ -192,6 +192,8 @@ My list of resources for continuous learning and career development in the data 
 
 [Hacker Rank](https://www.hackerrank.com/)
 
+[pgAdmin - PostgreSQL Tools](https://www.pgadmin.org/)
+
 ## Courses
 [Intro to Git and GitHub](https://teamtreehouse.com/library/github-basics) - Treehouse
 
