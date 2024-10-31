@@ -207,6 +207,8 @@ Recommended by Alex the Analyst
 [Udemy: Microsoft Excel: Data Visualization w/ Excel Charts & Graphs](https://www.udemy.com/course/advanced-excel-charts-graphs/?ranMID=39197&ranEAID=E7g%2FxDr%2FWGM&ranSiteID=E7g_xDr_WGM-etBIo.2l8BiDYrZzc4CG5w&LSNPUBID=E7g%2FxDr%2FWGM&couponCode=ST11MT91624B) - Master 20+ Excel charts &amp; graphs, build custom dashboards, and create advanced spreadsheet visuals w/ a top instructor!
 Recommended by Alex the Analyst
 
+[The Ultimate Modern SQL Course - 2024/25](https://www.udemy.com/course/the-ultimate-modern-sql-course/?couponCode=OCTOBER75)
+
 ## BI Tooling
 [Tableau](https://www.tableau.com/learn)
 
