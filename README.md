@@ -51,6 +51,8 @@ My list of resources for continuous learning and career development in the data 
 
 [Visual Introduction to SQL](https://www.amazon.com/Visual-Introduction-SQL-David-Chappell/dp/0471412767/)
 
+[T-SQL Fundamentals (Developer Reference)](https://www.amazon.com/T-SQL-Fundamentals-Developer-Reference-Ben-Gan-ebook/dp/B0BTLBXF8V)
+
 ## Open Data Sets
 [Kaggle](https://www.kaggle.com/datasets) - Provides datasets, competitions, and educational resources for hands-on learning.
 
