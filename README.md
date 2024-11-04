@@ -53,6 +53,8 @@ My list of resources for continuous learning and career development in the data 
 
 [T-SQL Fundamentals (Developer Reference)](https://www.amazon.com/T-SQL-Fundamentals-Developer-Reference-Ben-Gan-ebook/dp/B0BTLBXF8V)
 
+[The 10 KPIs every product leader needs to know](https://go.pendo.io/10-kpis-2021-ebook.html?rdt_cid=5195114996236910453)
+
 ## Open Data Sets
 [Kaggle](https://www.kaggle.com/datasets) - Provides datasets, competitions, and educational resources for hands-on learning.
 
