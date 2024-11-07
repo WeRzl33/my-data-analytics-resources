@@ -55,6 +55,8 @@ My list of resources for continuous learning and career development in the data 
 
 [The 10 KPIs every product leader needs to know](https://go.pendo.io/10-kpis-2021-ebook.html?rdt_cid=5195114996236910453)
 
+[Python for Data Analysis](https://www.amazon.com/Python-Data-Analysis-Wes-McKinney-ebook/dp/B0B9HY3WX7) - by Wes McKinney
+
 ## Open Data Sets
 [Kaggle](https://www.kaggle.com/datasets) - Provides datasets, competitions, and educational resources for hands-on learning.
 
