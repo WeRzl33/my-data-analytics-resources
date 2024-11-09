@@ -206,6 +206,8 @@ My list of resources for continuous learning and career development in the data 
 
 [Dashboard Dude](https://www.dashboarddudes.com/)
 
+[Data Analyst Nanodegree Program](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
+
 ## Courses
 [Intro to Git and GitHub](https://teamtreehouse.com/library/github-basics) - Treehouse
 
