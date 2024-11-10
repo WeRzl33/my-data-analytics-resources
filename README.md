@@ -57,6 +57,8 @@ My list of resources for continuous learning and career development in the data 
 
 [Python for Data Analysis](https://www.amazon.com/Python-Data-Analysis-Wes-McKinney-ebook/dp/B0B9HY3WX7) - by Wes McKinney
 
+[The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling](https://www.amazon.com/Data-Warehouse-Toolkit-Definitive-Dimensional/dp/1118530802) - by Ralph Kimball and Margy Ross
+
 ## Open Data Sets
 [Kaggle](https://www.kaggle.com/datasets) - Provides datasets, competitions, and educational resources for hands-on learning.
 
