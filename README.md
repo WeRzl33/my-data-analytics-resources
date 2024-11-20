@@ -146,6 +146,24 @@ My list of resources for continuous learning and career development in the data 
 
 [Data Science Linear Reqression](https://pll.harvard.edu/course/data-science-linear-regression)
 
+[Intro to Git and GitHub](https://teamtreehouse.com/library/github-basics) - Treehouse
+
+[Intro to Google Sheets](https://app.pluralsight.com/library/courses/google-sheets-2/table-of-contents) - Pluralsight
+
+[Intro to SQL](https://app.pluralsight.com/paths/skill/introduction-to-sql) - Pluralsight
+
+[Udemy: Microsoft Excel: Data Analysis with Excel Pivot Tables](https://www.udemy.com/course/data-analysis-with-excel-pivot-tables/?couponCode=ST11MT91624B) - Master Excel Pivot Tables for data analysis, EDA &amp; business intelligence. Learn from a top MS Excel instructor!
+Recommended by Alex the Analyst
+
+[Udemy: Microsoft Excel: Data Visualization w/ Excel Charts & Graphs](https://www.udemy.com/course/advanced-excel-charts-graphs/?ranMID=39197&ranEAID=E7g%2FxDr%2FWGM&ranSiteID=E7g_xDr_WGM-etBIo.2l8BiDYrZzc4CG5w&LSNPUBID=E7g%2FxDr%2FWGM&couponCode=ST11MT91624B) - Master 20+ Excel charts &amp; graphs, build custom dashboards, and create advanced spreadsheet visuals w/ a top instructor!
+Recommended by Alex the Analyst
+
+[The Ultimate Modern SQL Course - 2024/25](https://www.udemy.com/course/the-ultimate-modern-sql-course/?couponCode=OCTOBER75)
+
+[Data Analyst Nanodegree Program](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
+
+[Data Science: Machine Learning](https://pll.harvard.edu/course/data-science-machine-learning)
+
 ## Annual Report Examples
 [MIT Solve Annual Report](https://info.solve.mit.edu/hubfs/MIT%20Solve%20-%20Annual%20Report%202024.pdf?utm_campaign=Annual%20Fund%20Appeal&utm_medium=email&_hsenc=p2ANqtz-8tQgWqIsmwpsXAHAXLkUeRRXmhIHfp3aSF9DY37QgWtC_r_v5oQiLphpuQtH3dvjHi5l8FBvc1cXDf8QxwYQt2jWHYAg&_hsmi=317147358&utm_content=317147356&utm_source=hs_email)
 
