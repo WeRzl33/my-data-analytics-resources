@@ -100,6 +100,18 @@ My list of resources for continuous learning and career development in the data 
 [Notion Templates every data scientist should have in 2024](https://www.kdnuggets.com/notion-templates-every-data-scientist-should-have-in-2024)
 
 ## Continuing Education
+[Intro to Git and GitHub](https://teamtreehouse.com/library/github-basics) - Treehouse
+
+[Intro to Google Sheets](https://app.pluralsight.com/library/courses/google-sheets-2/table-of-contents) - Pluralsight
+
+[Intro to SQL](https://app.pluralsight.com/paths/skill/introduction-to-sql) - Pluralsight
+
+[Udemy: Microsoft Excel: Data Analysis with Excel Pivot Tables](https://www.udemy.com/course/data-analysis-with-excel-pivot-tables/?couponCode=ST11MT91624B) - Master Excel Pivot Tables for data analysis, EDA &amp; business intelligence. Learn from a top MS Excel instructor!
+Recommended by Alex the Analyst
+
+[Udemy: Microsoft Excel: Data Visualization w/ Excel Charts & Graphs](https://www.udemy.com/course/advanced-excel-charts-graphs/?ranMID=39197&ranEAID=E7g%2FxDr%2FWGM&ranSiteID=E7g_xDr_WGM-etBIo.2l8BiDYrZzc4CG5w&LSNPUBID=E7g%2FxDr%2FWGM&couponCode=ST11MT91624B) - Master 20+ Excel charts &amp; graphs, build custom dashboards, and create advanced spreadsheet visuals w/ a top instructor!
+Recommended by Alex the Analyst
+
 [Khan Academy - Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)
 
 [Weber State Data Analytics Certificate](https://www.weber.edu/goddard/DataAnalyticsCertificate.html)
@@ -145,18 +157,6 @@ My list of resources for continuous learning and career development in the data 
 [Data Analyst Nano Degree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
 
 [Data Science Linear Reqression](https://pll.harvard.edu/course/data-science-linear-regression)
-
-[Intro to Git and GitHub](https://teamtreehouse.com/library/github-basics) - Treehouse
-
-[Intro to Google Sheets](https://app.pluralsight.com/library/courses/google-sheets-2/table-of-contents) - Pluralsight
-
-[Intro to SQL](https://app.pluralsight.com/paths/skill/introduction-to-sql) - Pluralsight
-
-[Udemy: Microsoft Excel: Data Analysis with Excel Pivot Tables](https://www.udemy.com/course/data-analysis-with-excel-pivot-tables/?couponCode=ST11MT91624B) - Master Excel Pivot Tables for data analysis, EDA &amp; business intelligence. Learn from a top MS Excel instructor!
-Recommended by Alex the Analyst
-
-[Udemy: Microsoft Excel: Data Visualization w/ Excel Charts & Graphs](https://www.udemy.com/course/advanced-excel-charts-graphs/?ranMID=39197&ranEAID=E7g%2FxDr%2FWGM&ranSiteID=E7g_xDr_WGM-etBIo.2l8BiDYrZzc4CG5w&LSNPUBID=E7g%2FxDr%2FWGM&couponCode=ST11MT91624B) - Master 20+ Excel charts &amp; graphs, build custom dashboards, and create advanced spreadsheet visuals w/ a top instructor!
-Recommended by Alex the Analyst
 
 [The Ultimate Modern SQL Course - 2024/25](https://www.udemy.com/course/the-ultimate-modern-sql-course/?couponCode=OCTOBER75)
 
