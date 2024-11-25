@@ -168,6 +168,8 @@ Recommended by Alex the Analyst
 
 [Data Science: Capstone](https://pll.harvard.edu/course/data-science-capstone)
 
+[Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science?campaignid=662631069&adgroupid=1258942125944463&device=c&keyword=math%20for%20data%20science&matchtype=p&network=o&devicemodel=&adposition=&creativeid=&hide_mobile_promo=&msclkid=709f434cebf61cdccd0725b8418bc1f6)
+
 ## Annual Report Examples
 [MIT Solve Annual Report](https://info.solve.mit.edu/hubfs/MIT%20Solve%20-%20Annual%20Report%202024.pdf?utm_campaign=Annual%20Fund%20Appeal&utm_medium=email&_hsenc=p2ANqtz-8tQgWqIsmwpsXAHAXLkUeRRXmhIHfp3aSF9DY37QgWtC_r_v5oQiLphpuQtH3dvjHi5l8FBvc1cXDf8QxwYQt2jWHYAg&_hsmi=317147358&utm_content=317147356&utm_source=hs_email)
 
