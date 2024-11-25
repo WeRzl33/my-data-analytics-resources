@@ -39,6 +39,8 @@ My list of resources for continuous learning and career development in the data 
 
 [How to Lie with Statistics](https://www.amazon.com/How-to-Lie-with-Statistics-audiobook/dp/B01C4RPH8Q/ref=sr_1_1?crid=20RVWU1OFEZNA&dib=eyJ2IjoiMSJ9.JD2gNSEx1mW4l2jem030bSEuWCeXDBs1kNxGY9o-QA7aiC7JKD5qznN0D-YQOfcezb0hoEq2zQG-zMg8wYIrp3KmG8dY9wQRhh_-Y0kc8-wz6cseALirgVK_uMpC_Aqvb8Q2ejC3p0TZTmpqJg1N1d474CWqo5ATHOQbmshP3DY8K9mjglrC_EDW4cyS1bdg92pAzWrilXzLNmZPVQg7lDdzSdoxzYL71IvwzFEbaTZOk9dFuYVNZR2RAtr44ZdR8YTyLwspDR7YqNEzJqT6Fi7m4ZePBicKKvFSKF8GZ-s._4dPSENCu78a5hKYOGBZ1_eY_Z04ap78kiA8R83nnJc&dib_tag=se&keywords=how+to+lie+with+data&qid=1720931128&s=books&sprefix=how+to+lie+with+data%2Cstripbooks%2C138&sr=1-1) - by Darrell Huff
 
+[Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/ref=pd_bxgy_thbs_d_sccl_2/135-7150086-8695203?pd_rd_w=DdPNq&content-id=amzn1.sym.53b72ea0-a439-4b9d-9319-7c2ee5c88973&pf_rd_p=53b72ea0-a439-4b9d-9319-7c2ee5c88973&pf_rd_r=80R6B3H81VV3FAZBHKSW&pd_rd_wg=QMT2r&pd_rd_r=505360c9-a0e1-43da-aa03-3fdec26da83a&pd_rd_i=1449373321&psc=1)
+
 [A Whole New Mind](https://www.amazon.com/Whole-New-Mind-Right-Brainers-Future/dp/1594481717) - by Daniel H. Pink
 
 [Co-Intelligence](https://www.amazon.ca/Co-Intelligence-Living-Working-Ethan-Mollick/dp/059371671X) - by Ethan Mollick
