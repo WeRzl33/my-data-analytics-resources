@@ -63,6 +63,8 @@ My list of resources for continuous learning and career development in the data 
 
 [Fundamentals of Data Engineering: Plan and Build Robust Data Systems](https://www.amazon.com/Fundamentals-Data-Engineering-Robust-Systems/dp/1098108302/ref=pd_bxgy_d_sccl_1/135-7150086-8695203?pd_rd_w=ZLrzj&content-id=amzn1.sym.53b72ea0-a439-4b9d-9319-7c2ee5c88973&pf_rd_p=53b72ea0-a439-4b9d-9319-7c2ee5c88973&pf_rd_r=BZ70ZF1K7815BQKBEK08&pd_rd_wg=2orxy&pd_rd_r=00c3f4c0-9573-4fa7-b4d8-25a3d72f6e73&pd_rd_i=1098108302&psc=1)
 
+[Data Pipelines Pocket Reference: Moving and Processing Data for Analytics](https://www.amazon.com/Data-Pipelines-Pocket-Reference-Processing/dp/1492087831/ref=pd_bxgy_thbs_d_sccl_1/135-7150086-8695203?pd_rd_w=m4BDd&content-id=amzn1.sym.53b72ea0-a439-4b9d-9319-7c2ee5c88973&pf_rd_p=53b72ea0-a439-4b9d-9319-7c2ee5c88973&pf_rd_r=5JB3G0K24YH5H5N8YQXQ&pd_rd_wg=9QB8U&pd_rd_r=24a50e1d-7d7e-452e-84a3-4fa1fbeadbb0&pd_rd_i=1492087831&psc=1)
+
 ## Open Data Sets
 [Kaggle](https://www.kaggle.com/datasets) - Provides datasets, competitions, and educational resources for hands-on learning.
 
