@@ -271,6 +271,8 @@ Recommended by Alex the Analyst
 
 [Alteryx](https://www.alteryx.com/)
 
+[Solver](https://www.solver.com/)
+
 ## Forums
 [Data Science Reddit](https://www.reddit.com/r/datascience/) - A space for data science professionals to engage in discussions and debates on the subject of data science.
 
