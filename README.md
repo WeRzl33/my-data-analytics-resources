@@ -180,6 +180,8 @@ Recommended by Alex the Analyst
 
 [Python for Everybody - Full University Python Course](https://www.classcentral.com/classroom/freecodecamp-python-for-everybody-full-university-python-course-57857/61893f40eb274)
 
+[Join the Applied Data Science Lab](https://www.wqu.edu/adsl-apply)
+
 ## Annual Report Examples
 [MIT Solve Annual Report](https://info.solve.mit.edu/hubfs/MIT%20Solve%20-%20Annual%20Report%202024.pdf?utm_campaign=Annual%20Fund%20Appeal&utm_medium=email&_hsenc=p2ANqtz-8tQgWqIsmwpsXAHAXLkUeRRXmhIHfp3aSF9DY37QgWtC_r_v5oQiLphpuQtH3dvjHi5l8FBvc1cXDf8QxwYQt2jWHYAg&_hsmi=317147358&utm_content=317147356&utm_source=hs_email)
 
