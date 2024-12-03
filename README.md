@@ -66,6 +66,7 @@ My list of resources for continuous learning and career development in the data 
 [Data Pipelines Pocket Reference: Moving and Processing Data for Analytics](https://www.amazon.com/Data-Pipelines-Pocket-Reference-Processing/dp/1492087831/ref=pd_bxgy_thbs_d_sccl_1/135-7150086-8695203?pd_rd_w=m4BDd&content-id=amzn1.sym.53b72ea0-a439-4b9d-9319-7c2ee5c88973&pf_rd_p=53b72ea0-a439-4b9d-9319-7c2ee5c88973&pf_rd_r=5JB3G0K24YH5H5N8YQXQ&pd_rd_wg=9QB8U&pd_rd_r=24a50e1d-7d7e-452e-84a3-4fa1fbeadbb0&pd_rd_i=1492087831&psc=1)
 
 ### Python
+### SQL
 
 ## Open Data Sets
 [Kaggle](https://www.kaggle.com/datasets) - Provides datasets, competitions, and educational resources for hands-on learning.
