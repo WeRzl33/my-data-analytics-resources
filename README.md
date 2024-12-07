@@ -310,3 +310,6 @@ Recommended by Alex the Analyst
 [Top Govenment Scholarships for Data Science Students](https://www.analyticsinsight.net/data-science/top-government-scholarships-for-data-science-students)
 
 [Google Career Certs with PROG Dev Center](https://progfoundation.org/prog-and-trueadvance/)
+
+## Portfolio Ideas
+[Takuonline](https://www.takuonline.com/)
