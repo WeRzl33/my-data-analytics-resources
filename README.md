@@ -116,6 +116,8 @@ My list of resources for continuous learning and career development in the data 
 
 [SQL Query Optimization](https://medium.com/lucid-plexus/sql-query-optimization-caf6708f6c4)
 
+[The Power of SQL Case Statement in Data Transformation (Microsoft Sql Server)](https://medium.com/lucid-plexus/the-power-of-sql-case-statement-in-data-transformations-microsoft-sql-server-3254b620aaf4)
+
 ## Continuing Education
 [Intro to Git and GitHub](https://teamtreehouse.com/library/github-basics) - Treehouse
 
