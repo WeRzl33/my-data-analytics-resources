@@ -114,6 +114,8 @@ My list of resources for continuous learning and career development in the data 
 
 [Notion Templates every data scientist should have in 2024](https://www.kdnuggets.com/notion-templates-every-data-scientist-should-have-in-2024)
 
+[SQL Query Optimization](https://medium.com/lucid-plexus/sql-query-optimization-caf6708f6c4)
+
 ## Continuing Education
 [Intro to Git and GitHub](https://teamtreehouse.com/library/github-basics) - Treehouse
 
