@@ -120,6 +120,8 @@ My list of resources for continuous learning and career development in the data 
 
 [Understanding INNER JOIN in SQL Server with Practical Examples](https://medium.com/lucid-plexus/understanding-inner-join-in-sql-server-with-practical-examples-2675aa53ea9)
 
+[Unleashing the Power of SQL Aggregate Functions: Part 1](https://medium.com/lucid-plexus/unleashing-the-power-of-sql-aggregate-functions-part-1-41bed4fd46f6)
+
 ## Continuing Education
 [Intro to Git and GitHub](https://teamtreehouse.com/library/github-basics) - Treehouse
 
