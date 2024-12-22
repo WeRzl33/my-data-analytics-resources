@@ -124,6 +124,8 @@ My list of resources for continuous learning and career development in the data 
 
 [Unleashing the Power of SQL Aggregate Functions: Part 2](https://medium.com/lucid-plexus/unleashing-the-power-of-sql-aggregate-functions-part-2-84d445354688)
 
+[Unleashing the Power of SQL Aggregate Functions: Part 4](https://medium.com/lucid-plexus/unleashing-the-power-of-sql-aggregate-functions-part-3-a0d1aa19ce3e)
+
 ## Continuing Education
 [Intro to Git and GitHub](https://teamtreehouse.com/library/github-basics) - Treehouse
 
