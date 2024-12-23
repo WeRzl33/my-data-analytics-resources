@@ -217,6 +217,8 @@ Recommended by Alex the Analyst
 
 [Data Analytics: Intro to SQL using Healthcare Data](https://www.udemy.com/course/data-analytics-intro-to-sql-using-healthcare-data-ssms/?couponCode=24T3MT120924)
 
+[SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)
+
 ## Annual Report Examples
 [MIT Solve Annual Report](https://info.solve.mit.edu/hubfs/MIT%20Solve%20-%20Annual%20Report%202024.pdf?utm_campaign=Annual%20Fund%20Appeal&utm_medium=email&_hsenc=p2ANqtz-8tQgWqIsmwpsXAHAXLkUeRRXmhIHfp3aSF9DY37QgWtC_r_v5oQiLphpuQtH3dvjHi5l8FBvc1cXDf8QxwYQt2jWHYAg&_hsmi=317147358&utm_content=317147356&utm_source=hs_email)
 
