@@ -130,6 +130,8 @@ My list of resources for continuous learning and career development in the data 
 
 [Advance SQL Queries with MySQL workbench (PART 2): Retrieving Data](https://medium.com/lucid-plexus/advance-sql-queries-with-mysql-workbench-part-2-retrieving-data-9af07d388493)
 
+[Advance SQL Queries with MySQL workbench (PART 3): Multiple Tables](https://medium.com/lucid-plexus/advance-sql-queries-with-mysql-workbench-part-3-multiple-tables-666927b59a79)
+
 ## Continuing Education
 [Intro to Git and GitHub](https://teamtreehouse.com/library/github-basics) - Treehouse
 
