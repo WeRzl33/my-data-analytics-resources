@@ -132,6 +132,8 @@ My list of resources for continuous learning and career development in the data 
 
 [Advance SQL Queries with MySQL workbench (PART 3): Multiple Tables](https://medium.com/lucid-plexus/advance-sql-queries-with-mysql-workbench-part-3-multiple-tables-666927b59a79)
 
+[Why your SQL Queries are NOT Efficient: 10 Things You Should Know](https://medium.com/lucid-plexus/why-your-sql-queries-are-not-efficient-10-things-you-should-know-5af2e26a5c18)
+
 ## Continuing Education
 [Intro to Git and GitHub](https://teamtreehouse.com/library/github-basics) - Treehouse
 
