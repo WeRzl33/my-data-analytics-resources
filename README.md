@@ -136,6 +136,8 @@ My list of resources for continuous learning and career development in the data 
 
 [The Essential Guide to R and Python Libraries for Data Visualization](https://towardsdatascience.com/the-essential-guide-to-r-and-python-libraries-for-data-visualization-33be8511c976)
 
+[Julius is a great AI tool for analyzing and visualizing datasets](https://www.fastcompany.com/91235755/julius-is-a-great-ai-tool-for-analyzing-and-visualizing-datasets)
+
 ## Continuing Education
 [Intro to Git and GitHub](https://teamtreehouse.com/library/github-basics) - Treehouse
 
