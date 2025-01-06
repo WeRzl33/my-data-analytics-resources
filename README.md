@@ -79,6 +79,7 @@ My list of resources for continuous learning and career development in the data 
 ### Podcasts
 ### YouTube Channel
 ### Articles
+### In Person Classes
 
 ## Open Data Sets
 [Kaggle](https://www.kaggle.com/datasets) - Provides datasets, competitions, and educational resources for hands-on learning.
