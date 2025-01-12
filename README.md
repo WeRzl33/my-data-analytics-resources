@@ -75,7 +75,7 @@ My list of resources for continuous learning and career development in the data 
 ### Courses
 ### In Person Events
 ### Open Data Sets
-### Workshops
+### In Person Workshops
 ### Podcasts
 ### YouTube Channel
 ### Articles
