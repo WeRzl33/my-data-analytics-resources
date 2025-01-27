@@ -3,6 +3,7 @@ My list of resources for continuous learning and career development in the data 
 
 ## In Person Classes
 [Tech Moms 2.0 - Data Analytics](https://www.notion.so/werz/Tech-Mom-2-0-Data-Analytics-75af5db855354785ba6e55cfab501877) - My own Notion Page
+[SQL Bootcamp - at NYC or LIVE Online](https://training-nyc.com/courses/sql-bootcamp-nyc)
 
 ## In Person Meetups
 [Python at the Point](https://www.meetup.com/pythonatthepoint/events/?eventOrigin=event_home_page)
