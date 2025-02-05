@@ -363,3 +363,6 @@ Recommended by Alex the Analyst
 
 ## Portfolio Ideas
 [Takuonline](https://www.takuonline.com/)
+
+## Job Search
+[How I approach my job search and interviews](https://datastoryteller.substack.com/p/how-i-approach-my-job-search-and?r=720ty&triedRedirect=true)
