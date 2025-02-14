@@ -327,6 +327,8 @@ Recommended by Alex the Analyst
 
 [Dashboard Dude](https://www.dashboarddudes.com/)
 
+[Data Viz Project](https://datavizproject.com/)
+
 ## BI Tooling
 [Tableau](https://www.tableau.com/learn)
 
