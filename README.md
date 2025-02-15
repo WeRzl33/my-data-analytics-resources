@@ -153,6 +153,8 @@ My list of resources for continuous learning and career development in the data 
 
 [SQL | The Only SQL Cheat Sheet You Will Ever Need](https://www.thedataschool.com.au/kieran-adair/sql-the-only-sql-cheat-sheet-you-will-ever-need/)
 
+[Best Practices for Choosing Chart Types](https://domo-support.domo.com/s/article/360042935294?language=en_US)
+
 ## Continuing Education
 [Intro to Git and GitHub](https://teamtreehouse.com/library/github-basics) - Treehouse
 
