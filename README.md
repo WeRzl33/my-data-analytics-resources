@@ -332,6 +332,8 @@ Recommended by Alex the Analyst
 
 [Data Viz Project](https://datavizproject.com/)
 
+[SQL Murder Mystery](https://mystery.knightlab.com/)
+
 ## BI Tooling
 [Tableau](https://www.tableau.com/learn)
 
