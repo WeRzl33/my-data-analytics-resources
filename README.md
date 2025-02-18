@@ -334,6 +334,8 @@ Recommended by Alex the Analyst
 
 [SQL Murder Mystery](https://mystery.knightlab.com/)
 
+[SQL Island](https://sql-island.informatik.uni-kl.de/)
+
 ## BI Tooling
 [Tableau](https://www.tableau.com/learn)
 
