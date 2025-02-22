@@ -336,6 +336,8 @@ Recommended by Alex the Analyst
 
 [SQL Island](https://sql-island.informatik.uni-kl.de/)
 
+[Hacker Rank](https://www.hackerrank.com/)
+
 ## BI Tooling
 [Tableau](https://www.tableau.com/learn)
 
