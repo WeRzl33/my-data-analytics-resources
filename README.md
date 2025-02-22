@@ -338,6 +338,8 @@ Recommended by Alex the Analyst
 
 [Hacker Rank](https://www.hackerrank.com/)
 
+[Data.World](https://data.world/)
+
 ## BI Tooling
 [Tableau](https://www.tableau.com/learn)
 
