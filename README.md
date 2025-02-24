@@ -340,6 +340,8 @@ Recommended by Alex the Analyst
 
 [Data.World](https://data.world/)
 
+[Code Wars](https://www.codewars.com/)
+
 ## BI Tooling
 [Tableau](https://www.tableau.com/learn)
 
