@@ -100,6 +100,8 @@ My list of resources for continuous learning and career development in the data 
 
 [Generate Data](https://generatedata.com/)
 
+[Gap Minder](https://www.gapminder.org/)
+
 ## Articles
 [Quickstart for Writing in Markdown on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
 
